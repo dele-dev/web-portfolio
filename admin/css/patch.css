@@ -1,0 +1,13 @@
+.margin-fit{
+    margin: auto;
+}
+
+.my-pointer{
+
+    cursor: pointer !important;
+}
+
+.scroll-it{
+    overflow: scroll;
+    height: 20em;
+}

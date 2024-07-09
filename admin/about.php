@@ -1,0 +1,1 @@
+<script> window.location.replace('bio.php'); </script>

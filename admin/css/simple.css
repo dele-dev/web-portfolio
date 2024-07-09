@@ -1,0 +1,12 @@
+.removeme{
+    color: #fff;
+    border: 1px solid;
+    padding: 2px;
+    border-radius: 50%;
+    font-size: 14px;
+}
+
+.removeme a {
+    margin: 10px;
+    color: #b51a1a;
+}
