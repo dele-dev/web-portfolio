@@ -143,6 +143,10 @@
                       stroke-linejoin="round" />
                   </svg>
                 </a>
+                <a href="register.php" class="lets-talk-btn">
+                  Join Us
+                  +
+                </a>
               </div>
             </div>
             <div class="mobile-menu-overlay d-block d-lg-none"></div>

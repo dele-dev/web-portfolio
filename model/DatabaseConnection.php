@@ -21,6 +21,14 @@ class DatabaseConnection
         //echo "Database Connected Successfully";
         return $this->conn = $conn;
     }
+
+    public function randUnique ($user) {
+        return "xyz".rand(99999,999999)."-".$user;
+    }
+    
+    public function encrpty ($string){
+        return sha1(base64_encode($string));
+    }
 }
 
 ?>
